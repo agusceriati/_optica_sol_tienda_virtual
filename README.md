@@ -1,7 +1,7 @@
 # [Óptica sol](.)
 ### Welcome to Óptica sol website project!
 
-![https://optica-sol.netlify.app]("./images/Óptica_sol_screenshot.png")
+![https://optica-sol.netlify.app]("/images/Óptica_sol_screenshot.png")
 
 In this repository, you will find the source code and documentation of the project. 
 
@@ -30,8 +30,8 @@ Then, open up the `index.html` file on your browser to view the website.
 
 ## Author
 
- Linkedin - [Agus Ceriati](https://www.linkedin.com/in/agustín-ceriati-584235213/)
-  Website - [Óptica Sol](https://optica-sol.netlify.app/)
+  -Linkedin - [Agus Ceriati](https://www.linkedin.com/in/agustín-ceriati-584235213/) <br>
+  -Website - [Óptica Sol](https://optica-sol.netlify.app/)
 
 ## Any suggestion
 
