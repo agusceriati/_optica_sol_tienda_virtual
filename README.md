@@ -1,7 +1,7 @@
 # [Óptica sol](.)
 ### Welcome to Óptica sol website project!
 
-![https://optica-sol.netlify.app]("images/Óptica_sol_screenshot.png")
+![https://optica-sol.netlify.app]("./images/Óptica_sol_screenshot.png")
 
 In this repository, you will find the source code and documentation of the project. 
 
