@@ -1,5 +1,5 @@
 # [Óptica sol](.)
-## Welcome to Óptica sol website project!
+# Welcome to Óptica sol website project!
 
 ![https://optica-sol.netlify.app](images/Óptica_sol_screenshot.png)
 
