@@ -476,6 +476,10 @@ button {
      padding-top: 20px;
 }
 
+.span_products{
+     font-weight: bold;
+}
+
 .about .read_more {
      border: #1a1a1a solid 2px;
      color: #1a1a1a;
@@ -517,6 +521,19 @@ button {
      border-radius: 2px;
      padding: 120px 0px 30px 0px;
      margin-bottom: 30px;
+     cursor: pointer;
+}
+
+.glasses .glasses_box:hover {
+     text-align: center;
+     border: #555556 solid 1px;
+     border-radius: 2px;
+     padding: 120px 0px 30px 0px;
+     margin-bottom: 30px;
+     cursor: pointer;
+     color: #fff;
+     background-color: #8fc5cf ;
+     transition: 1s;
 }
 
 .glasses .glasses_box figure {
